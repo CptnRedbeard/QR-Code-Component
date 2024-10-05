@@ -12,8 +12,8 @@ body {
 
 #qr-container {
 	position: relative;
-	width: 350px;
-	height: 520px;
+	width: 325px;
+	height: 500px;
 	background-color: hsl(0, 0%, 100%);
 	border-radius: 25px;
 	position: absolute;
